@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAccountManagement", "StockAccountManagement\StockAccountManagement.csproj", "{19FA2C03-7230-4422-B758-6F388FEF3F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FA2C03-7230-4422-B758-6F388FEF3F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FA2C03-7230-4422-B758-6F388FEF3F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FA2C03-7230-4422-B758-6F388FEF3F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FA2C03-7230-4422-B758-6F388FEF3F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A706D86-6B67-49B2-BE96-6741B1AC169B}
+	EndGlobalSection
+EndGlobal
